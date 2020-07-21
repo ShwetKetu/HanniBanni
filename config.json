@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/laxmi",
+    "prod_uri": "mysql+pymysql://root:@localhost/laxmi",
+    "fb_url": "http://facebook.com/hannibanni",
+    "tw_url": "http://twitter.com/hannibanni",
+    "gh_url": "http://github.com/hannibanni",
+    "blog_name": "Yummy Toast",
+    "gmail-user": "ketu1009@gmail.com",
+    "gmail-password": "Nevergu@123",
+    "about_text": "Hello There, You Can Place Online Oder Through This Website And Also You Can Get All The Details Of The Product Here",
+    "no_of_posts": 3,
+    "login_image": "rusku2.svg",
+    "admin_user": "ketu1009",
+    "admin_password": "Njoy@123",
+    "upload_location": "C:\\Users\\shwet.ketu\\PycharmProjects\\FlaskWeb\\static\\img"
+  }
+
+
+}
